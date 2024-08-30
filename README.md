@@ -1,7 +1,8 @@
 # aHUS: perspectives from p38 signal pathway
 2024-2 EBI project 
 
-**members**
+**Members**
+
 Sarah Jimenez Rojas, Santiago Reinoso, Juanita Prada Mora, Silvana Gonzalez
 
 <!-- PROJECT CONTENT -->
