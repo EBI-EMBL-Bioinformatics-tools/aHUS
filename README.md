@@ -13,6 +13,12 @@ Sarah Jimenez Rojas, Santiago Reinoso, Juanita Prada Mora, Silvana Gonzalez
 
 1. Abstract
 2. Research question
+3. Experimental design
+
+**Also, as a folder**
+1. Presentations 
+2. Deliverables
+3. Data
 
 
 **Abstract**
@@ -22,4 +28,7 @@ In 2021, a possible connection between atypical hemolytic uremic syndrome (aHUS)
 
 **Research question**
 
-¿What is the relationship between p38 signaling pathway and the symptomatology and severity of aHUS?
+What is the relationship between p38 signaling pathway and the symptomatology and severity of aHUS?
+
+**Experimental design**
+![alt text](image.png)
