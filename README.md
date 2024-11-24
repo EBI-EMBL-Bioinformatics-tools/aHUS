@@ -16,8 +16,10 @@ Sarah Jimenez Rojas, Santiago Reinoso, Juanita Prada Mora, Silvana Gonzalez
 
 
 **Abstract**
+
 In 2021, a possible connection between atypical hemolytic uremic syndrome (aHUS) and the p38 MAPK signaling pathway was reported for the first time. On one hand, aHUS, is an orphan disease characterized by a low concentration of erythrocytes, leading to hemolytic anemia, renal impairment, and thrombocytopenia. It is estimated that 50% of the patients develop end-stage renal disease and that aHUS has a mortality rate of 25%. The p38 pathway, on the other hand, is a mitogen-activated protein kinase (MAPK) cascade critical for cellular responses to stress, inflammation, and environmental stimuli, regulating processes such as apoptosis, cytokine production, cellular differentiation, and metabolism involved in immune system and signal transduction. This project aims to reveal the relationship between aHUS symptomatology and p38 signaling pathway using four kinases' isoforms of interest (MAPK11, MAPK12, MAPK13, and MAPK14) mediated by a multitool approach. The analysis of these four isoforms showed that despite sharing similar structures among them (60%) underlying differences on their functional pathways can help in the identification of p38 pathway influences in aHUS symptoms. For example, MAPK13 interacts with proteins regulating insulin secretion (PRKD1) which can be related to renal impairment, MAPK12 interacts with stress-inductor proteins related to inflammation (SNTA1) and MAPK14 variants revealed to affect autophosphorylation that can possibly lead to a symptomatology-like aHUS. Our results, then, suggest a possible relationship of p38 kinases with the symptomatology of aHUS evidenced at different molecule levels. Moreover, these four kinases can be potentially used as a molecular target for aHUs treatment.
 
 
 **Research question**
+
 ¿What is the relationship between p38 signaling pathway and the symptomatology and severity of aHUS?
