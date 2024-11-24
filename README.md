@@ -16,7 +16,7 @@ Sarah Jimenez Rojas, Santiago Reinoso, Juanita Prada Mora, Silvana Gonzalez
 3. Experimental design
 
 **Also, as a folder**
-1. Presentations 
+1. Presentations (Practice presentation and Final presentation )
 2. Deliverables
 3. Data
 
