@@ -31,4 +31,5 @@ In 2021, a possible connection between atypical hemolytic uremic syndrome (aHUS)
 What is the relationship between p38 signaling pathway and the symptomatology and severity of aHUS?
 
 **Experimental design**
+
 ![alt text](<methodology_1.png>)
