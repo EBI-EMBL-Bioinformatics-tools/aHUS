@@ -32,4 +32,4 @@ What is the relationship between p38 signaling pathway and the symptomatology an
 
 **Experimental design**
 
-![alt text](<methodology_1.png>)
+![alt text](<data/methodology_1.png>)
